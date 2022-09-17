@@ -15,7 +15,7 @@ CYAN = '\033[36m'
 WHITE = '\033[37m'
 RESET = '\033[39m'
 
-print(BLUE +"----- Bienvenido a la Trivia del Universo -----"+RESET)
+print(BLUE +"----- Bienvenid@ a la Trivia del Universo -----"+RESET)
 print()
 print (BLUE+"Pondremos a prueba tus conocimientos sobre el universo.La trivia constara de 5 preguntas"+RESET)
 nombre = input(CYAN+"Por favor ingresa tu nombre:"+RESET)
